@@ -12,7 +12,7 @@
 
 		</div><!-- .site-content -->
 
-<strong>Test Pull Branch Dev</strong>
+<strong>Test X Pull Branch Dev</strong>
 
 
 		<footer id="colophon" class="site-footer" role="contentinfo">
