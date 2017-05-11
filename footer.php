@@ -11,7 +11,10 @@
 ?>
 
 		</div><!-- .site-content -->
-<strong>Branch Dev Master</strong>
+
+<strong>Test 0 Master  Dev-Pull-default</strong>
+
+
 		<footer id="colophon" class="site-footer" role="contentinfo">
 			<?php if ( has_nav_menu( 'primary' ) ) : ?>
 				<nav class="main-navigation" role="navigation" aria-label="<?php esc_attr_e( 'Footer Primary Menu', 'twentysixteen' ); ?>">
