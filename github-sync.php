@@ -1,1 +1,1 @@
-<?php `sudo git pull git@github.com:the-sub/twentysixteen.git`;?>
+<?php `sudo git pull`;?>
